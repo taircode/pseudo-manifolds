@@ -1,1 +1,1 @@
-# pseudomanifolds
+# pseudo-manifolds
