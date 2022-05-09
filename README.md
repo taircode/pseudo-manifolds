@@ -1,6 +1,6 @@
 ### pseudo-manifolds
 
-This is undergrad work from the 2011 Cornell REU, here as backup to the original link at [here](https://pi.math.cornell.edu/~takhmejanov/pseudoManifolds.html).
+This is undergrad work from the 2011 Cornell REU, here as backup to the original [link](https://pi.math.cornell.edu/~takhmejanov/pseudoManifolds.html).
 
 ## Cornell summer 2011 Math Research Experience for Undergraduates (REU)
 
