@@ -9,4 +9,4 @@ This program outputs an isomorphism-free enumeration of triangulated 3-dimension
 
 For 9 vertices the complete enumeration is summarized [here](https://pi.math.cornell.edu/~takhmejanov/pseudoManifolds.html).
 
-These results are referenced in Ed Swartz's survey article on combinatorial face-enumeration https://arxiv.org/pdf/1411.0987.pdf, and in an article by Biplap Bissau and Ed Swartz, https://arxiv.org/pdf/1803.08942.pdf.
+These results are referenced in Ed Swartz's survey article on combinatorial face-enumeration, https://arxiv.org/pdf/1411.0987.pdf, and in an article by Biplap Bissau and Ed Swartz, https://arxiv.org/pdf/1803.08942.pdf.
